@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+PnG Merchandising With Channel Wise Data Verification,,,,2020-04-16 18:51:22,2020-04-16 18:53:41,2m - 18.668s,ERROR
+,,,,,,,
+Test Cases/LaunchingApp/LaunchApp,,,,2020-04-16 18:51:23,2020-04-16 18:51:45,22.529s,PASSED
+,,,,,,,
+Test Cases/MerchandisingShopScenarios/VisitShopsWithChannelWiseDataVerification,,,,2020-04-16 18:51:45,2020-04-16 18:53:41,1m - 55.634s,ERROR
